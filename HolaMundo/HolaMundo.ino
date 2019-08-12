@@ -4,7 +4,7 @@
  */
 void setup()
 {
-  Serial.begin(9600);// Abrimos el puerto serial con una velocidad de 9600 baudios
+  Serial.begin(9600);// Abrimos el puerto serial con una velocidad de 9600 baudios.
   
 
 }
