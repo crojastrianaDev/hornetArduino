@@ -1,6 +1,6 @@
 
 /*
- * Hola Mundo con Arduino, realizado por Alejandro Rojas de la tienda de porductos HORNET Popayán Colombia.
+ * Hola Mundo con Arduino puerto serial, realizado por Alejandro Rojas de la tienda de porductos HORNET Popayán Colombia.
  */
 void setup()
 {
